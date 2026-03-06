@@ -20,3 +20,7 @@ install libraries
 ```
 pip install -r requirements.txt
 ```
+Live Application
+```
+https://banglorehousepriceprediction-q85dv6tt3vb3kpjozjinze.streamlit.app/
+```
